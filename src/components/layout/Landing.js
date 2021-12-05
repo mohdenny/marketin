@@ -8,7 +8,7 @@ const Landing = () => {
                 <div className="container mx-auto flex lg:flex-row flex-col h-full w-full">
                     <div className="absolute flex sm:flex-row flex-col sm:w-auto w-full overflow-hidden md:space-x-2">
                         <div id="logo" className="flex flex-col items-center justify-center px-4 rounded-b-lg bg-purple-600 h-20 w-36">
-                            <div className="flex w-full h-auto sm:px-0 px-8 justify-end items-end">
+                            <div className="flex w-full h-auto sm:px-0 px-4 justify-end items-end">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-white italic" viewBox="0 0 20 20" fill="currentColor">
                                     <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
                                 </svg>
