@@ -599,9 +599,7 @@ video {
   border-color: rgba(229, 231, 235, var(--tw-border-opacity));
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Roboto&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Roboto&family=Roboto:wght@100&family=Readex+Pro&display=swap');
 
 .container {
   width: 100%;
