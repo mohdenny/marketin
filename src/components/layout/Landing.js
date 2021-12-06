@@ -24,7 +24,7 @@ const Landing = () => {
                         <div className="py-6 h-auto w-full">
                             <div className="flex flex-col sm:justify-start sm:items-start justify-center drop-shadow-2xl items-center w-full h-full space-y-2">
                                 <p className="text-white font-readex-pro text-4xl sm:text-left filter drop-shadow-3xl text-center">2021 Gartner<br/>Magic Quadrant</p>
-                                <p className="text-gray-100 font-thin filter drop-shadow-sm">for CRM Lead Management</p>
+                                <p className="text-gray-100 filter drop-shadow-sm">for CRM Lead Management</p>
                             </div>
                         </div>
                     </div>
