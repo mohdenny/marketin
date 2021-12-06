@@ -69,7 +69,7 @@ const Form = () => {
                         <p className="text-red-500 font-bold">*</p>
                     </div>
                 </div>
-                <div className="flex justify-end px-4">
+                <div className="flex justify-end py-2 px-4">
                     <button className="h-10 bg-blue-600 px-4 rounded-xl text-white hover:bg-blue-700 hover:text-gray-200">Download Now</button>
                 </div>
             </form>
