@@ -31766,6 +31766,10 @@ video {
   --tw-drop-shadow: drop-shadow(0 0 #0000);
 }
 
+.drop-shadow-3xl {
+  --tw-drop-shadow: drop-shadow(0 35px 35px rgba(0, 0, 0, 0.25));
+}
+
 .grayscale-0 {
   --tw-grayscale: grayscale(0);
 }
@@ -63000,6 +63004,10 @@ video {
     --tw-drop-shadow: drop-shadow(0 0 #0000);
   }
 
+  .sm\:drop-shadow-3xl {
+    --tw-drop-shadow: drop-shadow(0 35px 35px rgba(0, 0, 0, 0.25));
+  }
+
   .sm\:grayscale-0 {
     --tw-grayscale: grayscale(0);
   }
@@ -94229,6 +94237,10 @@ video {
 
   .md\:drop-shadow-none {
     --tw-drop-shadow: drop-shadow(0 0 #0000);
+  }
+
+  .md\:drop-shadow-3xl {
+    --tw-drop-shadow: drop-shadow(0 35px 35px rgba(0, 0, 0, 0.25));
   }
 
   .md\:grayscale-0 {
@@ -125462,6 +125474,10 @@ video {
     --tw-drop-shadow: drop-shadow(0 0 #0000);
   }
 
+  .lg\:drop-shadow-3xl {
+    --tw-drop-shadow: drop-shadow(0 35px 35px rgba(0, 0, 0, 0.25));
+  }
+
   .lg\:grayscale-0 {
     --tw-grayscale: grayscale(0);
   }
@@ -156693,6 +156709,10 @@ video {
     --tw-drop-shadow: drop-shadow(0 0 #0000);
   }
 
+  .xl\:drop-shadow-3xl {
+    --tw-drop-shadow: drop-shadow(0 35px 35px rgba(0, 0, 0, 0.25));
+  }
+
   .xl\:grayscale-0 {
     --tw-grayscale: grayscale(0);
   }
@@ -187922,6 +187942,10 @@ video {
 
   .\32xl\:drop-shadow-none {
     --tw-drop-shadow: drop-shadow(0 0 #0000);
+  }
+
+  .\32xl\:drop-shadow-3xl {
+    --tw-drop-shadow: drop-shadow(0 35px 35px rgba(0, 0, 0, 0.25));
   }
 
   .\32xl\:grayscale-0 {
