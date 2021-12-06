@@ -11,7 +11,7 @@ const Main = () => {
                     <div className="flex flex-col space-y-2">
                         <p>Gartner's 2021 Magic Quadrant Report includes:</p>
                         <ul className="list-disc px-8">
-                            <li>Overall market evalution and analysis of 15 CRM lead management vendors</li>
+                            <li>Overall market evaluation and analysis of 15 CRM lead management vendors</li>
                             <li>Insights for selecting a vendor based on your organization's requirements</li>
                             <li>Opportunities and challenges faced when deploying lead management systems</li>
                         </ul>
